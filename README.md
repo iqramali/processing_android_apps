@@ -1,8 +1,8 @@
 # processing_android_apps
-Processing language Android aps
+Processing language Stealth camera Android aps
 
 
-## Basic Processing Android App
+## Basic Processing Stealth camera Android App
 
 This app helps you to load the *.apk file into your mobile phone via micro usb. While using the Processing, sometimes it's better to use the mobile phone directly instead of using the emulator. Emulator is bit sluggish and it won't work in many case.
 
